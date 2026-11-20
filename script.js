@@ -1,4 +1,9 @@
 const cities = [
+  { name: "Bansoa", region: "Ouest" },
+  { name: "Baleveng", region: "Ouest" },
+  { name: "Bafang", region: "Ouest" },
+  { name: "Bameka", region: "Ouest" },
+  { name: "Bamendou", region: "Ouest" },
   { name: "Bafoussam", region: "Ouest" },
   { name: "Dschang", region: "Ouest" },
   { name: "Mbouda", region: "Ouest" },
